@@ -17,3 +17,13 @@
 
 **Link(s) to work**: [One Zero, Two Zeros...](https://github.com/greenervigil/CodeEval/blob/master/JavaSolutions/Zeros.java)
 [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
+
+
+### Day 3: January 5, Thursday
+
+**Today's Progress**: Complete Major Element challenge in Java for CodeEval and worked on the challenge Chardonnay or Cabernet challenge but did not complete it.    
+
+**Thoughts** In doing some reading on [Medium](Medium.com), I read an artice on preparing for a google interview which I am very interested in going through.  The repository is located [here](https://github.com/jwasham/google-interview-university).  There are a lot of resources, nice refresher.         
+
+**Link(s) to work**: [Major Element](https://github.com/greenervigil/CodeEval/blob/master/JavaSolutions/Zeros.java)
+[CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
