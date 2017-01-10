@@ -27,3 +27,11 @@
 
 **Link(s) to work**: [Major Element](https://github.com/greenervigil/CodeEval/blob/master/JavaSolutions/Zeros.java)
 [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
+
+### Day 4: January 9, Monday
+
+**Today's Progress**: Worked on the challenge Chardonnay or Cabernet challenge but stil did not complete it.    
+
+**Thoughts** Friday, I worked two jobs which meant I had no time to write code outside of work.  I also took the weekend off as I feel making sure you get time to unwind and step out of your head is extremely important. Also worked on the codeeval challenge Read More which I have received partial credit on so I will also work on getting that completed as well.  The only problem with codeeval and their challenges are when you patially get the answer.  They do not show you the output so you can figure out where you went wrong, or allow you to obtain the test cases they used so you may also use them in your testing.  You can get the test cases when you solve or miss it completely.        
+
+**Link(s) to work**: [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
