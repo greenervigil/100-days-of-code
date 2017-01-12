@@ -43,3 +43,11 @@
 **Thoughts** This challenge I found to be pretty easy. The great thing about CodeEval is that no one else will be able to just copy my solutions as it measures the uniqueness of your code.  I will also begin using [CodeWars](https://www.codewars.com) more to practice additional challenges.         
 
 **Link(s) to work**: [Words To Digits](https://github.com/greenervigil/CodeEval/blob/master/JavaSolutions/WordToDigit.java)  [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
+
+### Day 6: January 11, Wednesday
+
+**Today's Progress**: Worked on some code challenges for codeeval.  Outside of coding I have been working on the [Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) course and reading the book which I was able to find in pdf online.   
+
+**Thoughts** Today was a pretty lull day.  I did a lot of coding at work so was rather tired from that.  Still managed to do a full hour outside of work.          
+
+**Link(s) to work**: [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
