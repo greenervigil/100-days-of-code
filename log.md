@@ -51,3 +51,11 @@
 **Thoughts** Today was a pretty lull day.  I did a lot of coding at work so was rather tired from that.  Still managed to do a full hour outside of work.          
 
 **Link(s) to work**: [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
+
+### Day 7: January 18, Wednesday
+
+**Today's Progress**: Worked on the Bit Position code challenge for codeeval.  Started working with BitSets but could not seem to get it to work properly.  Outside of coding I have been working on the [Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) course and reading the book which I was able to find in pdf online.  I also started the AI course on [Edx](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+1T2017/info) 
+
+**Thoughts** Not too bad of a day.  I did complete the weeks coursework in the AI course and all of the lectures in the Algorithm course.  There is a homework assignment which may take up a lot of time which  I hope I can use for this challenge.  It is a percolation algorithm assignment.            
+
+**Link(s) to work**: [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
