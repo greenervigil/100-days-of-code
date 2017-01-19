@@ -59,3 +59,11 @@
 **Thoughts** Not too bad of a day.  I did complete the weeks coursework in the AI course and all of the lectures in the Algorithm course.  There is a homework assignment which may take up a lot of time which  I hope I can use for this challenge.  It is a percolation algorithm assignment.            
 
 **Link(s) to work**: [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
+
+### Day 8: January 19, Thursday
+
+**Today's Progress**: Worked on the Bit Position code challenge, the Wines challenge, and the Read More challenge for codeeval.  Started working with BitSets but could not seem to get it to work properly.  Outside of coding I have been working on the [Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) course and reading the book which I was able to find in pdf online.  I am working on the first assignment which is a percolation algorithm.  Finished up the first week videos and quiz for the AI course on [Edx](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+1T2017/info) 
+
+**Thoughts** It is surprising how quickly an hour can go by.  Especially when you are stuck.  I managed to make some head way on the codeeval challenges.  I plan to move away from those for a bit and work on the Java Web Developer nano Degree I signed up for.  I am on the second project which is building a Soccer League Organizer.  I walked away from this for a bit because I was stuying for the OCA exam, but I think it is time to return.            
+
+**Link(s) to work**: [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
