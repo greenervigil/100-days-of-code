@@ -67,3 +67,20 @@
 **Thoughts** It is surprising how quickly an hour can go by.  Especially when you are stuck.  I managed to make some head way on the codeeval challenges.  I plan to move away from those for a bit and work on the Java Web Developer nano Degree I signed up for.  I am on the second project which is building a Soccer League Organizer.  I walked away from this for a bit because I was stuying for the OCA exam, but I think it is time to return.            
 
 **Link(s) to work**: [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
+
+### Day 9: January 23, Monday
+
+**Today's Progress**: Started working on JavaScript30.com 30 days of JavaScript projects.  First project is building a Drum Kit.  
+
+**Thoughts** I think this is a good set of videos to go through when you have a pretty solid understanding of JavaScript.  Not something for newbies but if you can keep up I think so far is a pretty good set of projects.            
+
+**Link(s) to work**: [JavaScript30](http://javascript30.com)
+
+### Day 10: January 24, Tuesday
+
+**Today's Progress**: Almost have the Drum Kit project completed.  Worked on alignment and spacing along with JavaScript functions.   
+
+**Thoughts** This is a fast paced course.  I did have to watch the video twice.  I am not the greatest with CSS so there is no real discussion here in this project so it is taking me a little longer.  I also need to update the background image and find the actual audio sources for this project.            
+
+**Link(s) to work**: [Code Pen Drum Kit](http://codepen.io/dvigil/pen/mRwpzj)
+
