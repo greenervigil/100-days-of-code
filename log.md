@@ -84,3 +84,8 @@
 
 **Link(s) to work**: [Code Pen Drum Kit](http://codepen.io/dvigil/pen/mRwpzj)
 
+### Day 11: January 28, Saturday
+
+**Today's Progress**: I did not want to but ultimately decided to add Perl to my list of code samples.  I started looking at some of the codeeval challenges I have completed in Java, JS, and Ruby and started to build some Perl sameples.  Updated some boiler plates for JS, Ruby and Perl for codeeval challenges to make starting each challenge easier.  
+
+**Thoughts** I do hold a Perl certificate so it is just as well that I put together some sample code in Perl.  I did not want to return to it but I can definitely see how it can add value to my resume.  I was not at all surprised at how much I have to refresh.  I think it has been 2 maybe 3 years since I used it.  Nothing to show for this week.   It has been a long week with having to travel and trying to have a little excercise.               
