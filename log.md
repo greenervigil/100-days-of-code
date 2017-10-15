@@ -1,91 +1,26 @@
 # 100 Days Of Code - Log
 
 
-### Day 1: January 3, Tuesday
+### Day 1: October 14, Saturday 
 
-**Today's Progress**: Began working on FreeCodeCamp's Front End Development Project Daily Quote machine.
+**Today's Progress**: Began updating my personal website which I had not worked on in some time.
 
-**Thoughts** It's been some time since I worked on FreeCodeCamp.  I enjoy this site.  My current role has me mostly doing backk end so I really enjoy doing front end.  I currently have my work on codepen.io and will move it over to its own github repository.  Definitely a work in progress.  
+**Thoughts** I made a lot of changes to the formatting.  Had to make a lot of corrections since my original was done on codepen.  I needed to get to a point where everything was working locally since codepen takes a lot of the basic formatting out of the picture.    
 
-**Link(s) to work**: [Daily Quote Machine](http://codepen.io/dvigil/pen/PZBgeV)
+### Day 2: October 15, Sunday
 
-### Day 2: January 4, Wednesday
+**Today's Progress**: Continued to work on my personal website.  trying to come up with some design ideas while cleaning up the code.    
 
-**Today's Progress**: Gave my freecodecamp Daily quote project a repo.  Did not really feel like working on the project so I did the code challenge One Zero, Two Zeros... in Java and posted to Github and  posted completion on twitter.  
-
-**Thoughts** The challenge took some time but I was surprised and happy with how quickly I was able to determine the direction I needed to go to solve it.    
-
-**Link(s) to work**: [One Zero, Two Zeros...](https://github.com/greenervigil/CodeEval/blob/master/JavaSolutions/Zeros.java)
-[CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
+**Thoughts** I am not a designer at all.  This is something that I will probably always struggle with.  Trying to determine the best approach to the design of my site.  Alos looking at all of the information I have on different sites and trying to incorporate all of them as examples.  
 
 
-### Day 3: January 5, Thursday
 
+
+<!--### Day 3: January 5, Thursday
 **Today's Progress**: Complete Major Element challenge in Java for CodeEval and worked on the challenge Chardonnay or Cabernet challenge but did not complete it.    
-
 **Thoughts** In doing some reading on [Medium](Medium.com), I read an artice on preparing for a google interview which I am very interested in going through.  The repository is located [here](https://github.com/jwasham/google-interview-university).  There are a lot of resources, nice refresher.         
-
 **Link(s) to work**: [Major Element](https://github.com/greenervigil/CodeEval/blob/master/JavaSolutions/Zeros.java)
 [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
+-->
 
-### Day 4: January 9, Monday
-
-**Today's Progress**: Worked on the challenge Chardonnay or Cabernet challenge but stil did not complete it.    
-
-**Thoughts** Friday, I worked two jobs which meant I had no time to write code outside of work.  I also took the weekend off as I feel making sure you get time to unwind and step out of your head is extremely important. Also worked on the codeeval challenge Read More which I have received partial credit on so I will also work on getting that completed as well.  The only problem with codeeval and their challenges are when you patially get the answer.  They do not show you the output so you can figure out where you went wrong, or allow you to obtain the test cases they used so you may also use them in your testing.  You can get the test cases when you solve or miss it completely.        
-
-**Link(s) to work**: [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
-
-### Day 5: January 10, Tuesday
-
-**Today's Progress**: Solved the Words to Digits challenge on CodeEval and pushed my solution to my repo.  Outside of coding I have been working on the [Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) course and reading the book which I was able to find in pdf online.   
-
-**Thoughts** This challenge I found to be pretty easy. The great thing about CodeEval is that no one else will be able to just copy my solutions as it measures the uniqueness of your code.  I will also begin using [CodeWars](https://www.codewars.com) more to practice additional challenges.         
-
-**Link(s) to work**: [Words To Digits](https://github.com/greenervigil/CodeEval/blob/master/JavaSolutions/WordToDigit.java)  [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
-
-### Day 6: January 11, Wednesday
-
-**Today's Progress**: Worked on some code challenges for codeeval.  Outside of coding I have been working on the [Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) course and reading the book which I was able to find in pdf online.   
-
-**Thoughts** Today was a pretty lull day.  I did a lot of coding at work so was rather tired from that.  Still managed to do a full hour outside of work.          
-
-**Link(s) to work**: [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
-
-### Day 7: January 18, Wednesday
-
-**Today's Progress**: Worked on the Bit Position code challenge for codeeval.  Started working with BitSets but could not seem to get it to work properly.  Outside of coding I have been working on the [Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) course and reading the book which I was able to find in pdf online.  I also started the AI course on [Edx](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+1T2017/info) 
-
-**Thoughts** Not too bad of a day.  I did complete the weeks coursework in the AI course and all of the lectures in the Algorithm course.  There is a homework assignment which may take up a lot of time which  I hope I can use for this challenge.  It is a percolation algorithm assignment.            
-
-**Link(s) to work**: [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
-
-### Day 8: January 19, Thursday
-
-**Today's Progress**: Worked on the Bit Position code challenge, the Wines challenge, and the Read More challenge for codeeval.  Started working with BitSets but could not seem to get it to work properly.  Outside of coding I have been working on the [Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) course and reading the book which I was able to find in pdf online.  I am working on the first assignment which is a percolation algorithm.  Finished up the first week videos and quiz for the AI course on [Edx](https://courses.edx.org/courses/course-v1:ColumbiaX+CSMM.101x+1T2017/info) 
-
-**Thoughts** It is surprising how quickly an hour can go by.  Especially when you are stuck.  I managed to make some head way on the codeeval challenges.  I plan to move away from those for a bit and work on the Java Web Developer nano Degree I signed up for.  I am on the second project which is building a Soccer League Organizer.  I walked away from this for a bit because I was stuying for the OCA exam, but I think it is time to return.            
-
-**Link(s) to work**: [CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
-
-### Day 9: January 23, Monday
-
-**Today's Progress**: Started working on JavaScript30.com 30 days of JavaScript projects.  First project is building a Drum Kit.  
-
-**Thoughts** I think this is a good set of videos to go through when you have a pretty solid understanding of JavaScript.  Not something for newbies but if you can keep up I think so far is a pretty good set of projects.            
-
-**Link(s) to work**: [JavaScript30](http://javascript30.com)
-
-### Day 10: January 24, Tuesday
-
-**Today's Progress**: Almost have the Drum Kit project completed.  Worked on alignment and spacing along with JavaScript functions.   
-
-**Thoughts** This is a fast paced course.  I did have to watch the video twice.  I am not the greatest with CSS so there is no real discussion here in this project so it is taking me a little longer.  I also need to update the background image and find the actual audio sources for this project.            
-
-**Link(s) to work**: [Code Pen Drum Kit](http://codepen.io/dvigil/pen/mRwpzj)
-
-### Day 11: January 28, Saturday
-
-**Today's Progress**: I did not want to but ultimately decided to add Perl to my list of code samples.  I started looking at some of the codeeval challenges I have completed in Java, JS, and Ruby and started to build some Perl sameples.  Updated some boiler plates for JS, Ruby and Perl for codeeval challenges to make starting each challenge easier.  
-
-**Thoughts** I do hold a Perl certificate so it is just as well that I put together some sample code in Perl.  I did not want to return to it but I can definitely see how it can add value to my resume.  I was not at all surprised at how much I have to refresh.  I think it has been 2 maybe 3 years since I used it.  Nothing to show for this week.   It has been a long week with having to travel and trying to have a little excercise.               
+             
