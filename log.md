@@ -7,13 +7,15 @@
 
 **Thoughts** I made a lot of changes to the formatting.  Had to make a lot of corrections since my original was done on codepen.  I needed to get to a point where everything was working locally since codepen takes a lot of the basic formatting out of the picture.    
 
+**Link(s) to work**: [Personal Website](https://github.com/greenervigil/mysite)
+
 ### Day 2: October 15, Sunday
 
 **Today's Progress**: Continued to work on my personal website.  trying to come up with some design ideas while cleaning up the code.    
 
-**Thoughts** I am not a designer at all.  This is something that I will probably always struggle with.  Trying to determine the best approach to the design of my site.  Alos looking at all of the information I have on different sites and trying to incorporate all of them as examples.  
+**Thoughts** I am not a designer at all.  This is something that I will probably always struggle with.  Trying to determine the best approach to the design of my site.  Alos looking at all of the information I have on different sites and trying to incorporate all of them as examples.  Thinking about domain names and where to host my site.  I already have a year free with ecowebhosting.co.uk but not sure that will work best for me since I am in the US.  But I do want to move to the UK.  So maybe.   
 
-
+**Link(s) to work**: [Personal Website](https://github.com/greenervigil/mysite)
 
 
 <!--### Day 3: January 5, Thursday
