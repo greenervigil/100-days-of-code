@@ -18,11 +18,9 @@
 **Link(s) to work**: [Personal Website](https://github.com/greenervigil/mysite)
 
 
-<!--### Day 3: January 5, Thursday
-**Today's Progress**: Complete Major Element challenge in Java for CodeEval and worked on the challenge Chardonnay or Cabernet challenge but did not complete it.    
-**Thoughts** In doing some reading on [Medium](Medium.com), I read an artice on preparing for a google interview which I am very interested in going through.  The repository is located [here](https://github.com/jwasham/google-interview-university).  There are a lot of resources, nice refresher.         
-**Link(s) to work**: [Major Element](https://github.com/greenervigil/CodeEval/blob/master/JavaSolutions/Zeros.java)
-[CodeEval Profile](https://www.codeeval.com/profile/greenervigil/)
--->
+### Day 3: October 16, Monday
+**Today's Progress**: Working on landing page for mysite and put in form tags to begin contact form for site.    
+**Thoughts** Did a lot of research looking for ideas and played with a lot of code.  MAde a lot of changes and did not really like anything I put together.           
+**Link(s) to work**: [Personal Website](https://github.com/greenervigil/mysite)
 
              
