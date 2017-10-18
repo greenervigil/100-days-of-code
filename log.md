@@ -23,4 +23,8 @@
 **Thoughts** Did a lot of research looking for ideas and played with a lot of code.  MAde a lot of changes and did not really like anything I put together.           
 **Link(s) to work**: [Personal Website](https://github.com/greenervigil/mysite)
 
+### Day 4: October 17, Tuesday
+**Today's Progress**: Working on landing page for mysite adding flexbox.    
+**Thoughts** Did a lot of research looking for ideas and played with a lot of code.  Used some initial stock images which I will change at a later date.           
+**Link(s) to work**: [Personal Website](https://github.com/greenervigil/mysite)
              
